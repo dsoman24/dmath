@@ -30,5 +30,4 @@ TO DO:
     - For instance, accuracy is lost at high values of x when number of iterations isn't high enough
 - Research CORDIC algorithm!
 
-
 This project was started in April 2021. 
