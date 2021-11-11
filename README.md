@@ -1,5 +1,4 @@
-#dmath
-Daniel Öman's Python Math Library
+#dmath: Daniel Öman's Python Math Library
 
 Linear algebra calculators included in this library:
     - Echelon form and reduced row echelon form (RREF) 
